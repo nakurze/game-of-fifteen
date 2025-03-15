@@ -1,0 +1,12 @@
+.main {
+  height: 100vh;
+  display: grid;
+  place-content: center;
+  row-gap: 1rem;
+}
+
+.h2,
+.h3 {
+  margin: 0;
+  text-align: center;
+}

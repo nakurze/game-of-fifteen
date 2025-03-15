@@ -1,0 +1,10 @@
+.tiles {
+  width: 334px;
+  height: 337px;
+  padding: 2px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  border-radius: 14px;
+  background-color: lightgray;
+}

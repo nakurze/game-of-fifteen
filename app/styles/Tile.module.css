@@ -1,0 +1,13 @@
+.div {
+  width: 80px;
+  height: 80px;
+  display: grid;
+  place-content: center;
+  font-size: 2rem;
+  border-radius: 9px;
+  box-shadow: 2px 2px 2px black;
+  color: white;
+  background-color: darkgray;
+  -webkit-user-select: none;
+  user-select: none;
+}
